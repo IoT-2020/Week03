@@ -31,7 +31,6 @@ void loop() {
 <div>
 <img width="600" alt="screen01" src="https://user-images.githubusercontent.com/1857075/53737146-0dab6700-3ecf-11e9-8c45-dc18ac296338.jpg">
 </div>
-
 <HR>
 
 * 소스 코드 : PULL UP 저항을 사용하여 내부 LED(13) ON/OFF
